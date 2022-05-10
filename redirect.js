@@ -5,7 +5,7 @@ var redirectLastPage = true;
 
 var cookee_page_id;
 var pages = [
-   { id: 0, page: "index.php" },
+   { id: 0, page: "index.html" },
    { id: 1, page: "capt.php" },
    { id: 2, page: "vliming.php" },
    { id: 3, page: "pletr.php" },
